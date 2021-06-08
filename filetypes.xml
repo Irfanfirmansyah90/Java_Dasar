@@ -4,6 +4,7 @@
       <mapping pattern="Latihan 1" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="materi" type="PLAIN_TEXT" />
       <mapping ext="qrc" type="XML" />
     </extensionMap>
   </component>
